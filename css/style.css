@@ -1899,6 +1899,9 @@ footer:hover {
 	padding-right: 5px;
 	list-style: none;
 }
+.address ul li:last-child{
+	border-right: none;
+}
 .address ul li a {
 	font-size: 14px;
 }
