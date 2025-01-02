@@ -1902,9 +1902,6 @@ footer:hover {
 .address ul li a {
 	font-size: 14px;
 }
-.address ul li:nth-child(2) a {
-	text-decoration: underline;
-}
 .address span {
 	display: block;
 	font-size: 14px;
