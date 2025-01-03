@@ -4050,14 +4050,6 @@ main.lght .ep-icon:after {
 }
 
 
-/* ========= Client Logos end ========== */
-
-
-.partners-section.style2 {
-	background: none;
-	padding: 120px 0;
-}
-
 
 /* ========== testimonial-slider ============ */
 
@@ -4239,69 +4231,6 @@ main.lght .ep-icon:after {
 	-ms-transform: translateY(-50%);
 	-o-transform: translateY(-50%);
 	transform: translateY(-50%);
-}
-
-
-
-/* ============== demos-section ============= */
-
-.demos-section {
-	float: left;
-	width: 100%;
-	background-color: #eef1f4;
-	padding: 180px 0 130px 0;
-}
-.demos-text {
-	float: left;
-	width: 100%;
-	text-align: center;
-	margin-bottom: 130px;
-}
-.demos-text h3 {
-	color: #000000;
-	font-size: 48px;
-	font-weight: 600;
-	text-transform: capitalize;
-	margin-bottom: 40px;
-}
-.demos-text p {
-	color: #666666;
-	font-size: 16px;
-	font-weight: 300;
-	line-height: 30px;
-}
-.demos-imgs {
-	float: left;
-	width: 100%;
-	margin-bottom: -45px;
-	padding: 0 45px;
-}
-.demo-details {
-	float: left;
-	width: 100%;
-	text-align: center;
-	margin-bottom: 45px;
-	padding: 0 15px;
-}
-.demo-details:hover {
-	transform: translateY(-25px);
-}
-.demo-details.pd-lft-none {
-	padding-left: 0;
-}
-.demo-details img {
-	width: 100%;
-	margin-bottom: 40px;
-}
-.demo-details h3 {
-	color: #000000;
-	font-size: 18px;
-	font-weight: 700;
-	margin-bottom: 0;
-}
-.demo-details h3 span {
-	color: #666666;
-	font-weight: 300;
 }
 
 
