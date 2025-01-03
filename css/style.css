@@ -368,14 +368,13 @@ div.pb {
 .logo {
 	float: left;
 	width: 22%;
-	padding-top: 29px;
+	padding-top: 20px;
 	margin-left: 15px;
 }
 .logo a img{
 	height: 50px;
 	width: 150px;
 	position: relative;
-	top: -10px;
 }
 nav {
 	float: right;
@@ -540,8 +539,12 @@ header.full .logo {
 	position: relative;
 	top: 2px;
 }
+.open-menu i{
+	margin-top: 10px;
+}
 .mobile-menu-btn a {
 	font-size: 28px;
+	margin-top: 10px;
 }
 
 /* =========== cntct-info =========== */
