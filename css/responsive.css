@@ -74,6 +74,7 @@
 	.listing-info > h3 {margin-bottom: 20px;font-size: 17px;}
 	.listing-info {padding: 25px 49px 60px 50px;}
 	.service-details p {font-size: 12px;line-height: 22px;}
+	nav{width: 70%;}
 	header.full nav ul li {padding: 30px 15px;}
 	.post-sm-sec.style2:before {display: none;}
 	.select-language {width: 14%;}
