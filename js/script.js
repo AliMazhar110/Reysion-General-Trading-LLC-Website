@@ -98,6 +98,23 @@ $(window).on("load", function() {
 
     $('.page-loading').fadeOut();
 
+    // Get references to elements
+    const videoLoader = document.getElementById('videoLoader');
+    const mainContent = document.getElementById('mainContent');
+    const videoElement = videoLoader.querySelector('video');
+
+    // Add event listener for the video end
+    videoElement.addEventListener('ended', () => {
+        // Add the hidden class for fade-out effect
+        videoLoader.classList.add('hidden');
+        
+        // Wait for the transition to complete before removing and showing content
+        setTimeout(() => {
+            videoLoader.remove(); // Completely remove loader
+            mainContent.style.display = 'block'; // Show main content
+        }, 1000); // Match the transition duration
+    });
+
 
 });
 
