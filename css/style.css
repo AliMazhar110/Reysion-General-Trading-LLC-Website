@@ -4305,56 +4305,6 @@ main.lght .ep-icon:after {
 }
 
 
-
-/* ============= work-pages ============= */
-
-.work-pages {
-	float: left;
-	width: 100%;
-	background-color: #fff;
-	padding: 140px 0;
-}
-.work-pages.bg-change {
-	background-color: #eef1f4;
-}
-.ft-bg {
-	float: left;
-	width: 100%;
-	background-image: url(http://via.placeholder.com/1920x721);
-	background-size: cover;
-	background-repeat: no-repeat;
-	padding: 200px 0;
-	text-align: center;
-}
-.ft-textt {
-	float: left;
-	width: 100%;
-	text-align: center;
-}
-.ft-textt h3 {
-	color: #ffffff;
-	font-size: 48px;
-	text-transform: capitalize;
-	margin-bottom: 40px;
-}
-.ft-textt p {
-	color: #ffffff;
-	font-size: 16px;
-	line-height: 30px;
-	font-weight: 300;
-	margin-bottom: 70px;
-}
-.ft-textt > a {
-	display: inline-block;
-	color: #000000;
-	font-size: 18px;
-	font-weight: 700;
-	background-color: deepskyblue;
-	text-transform: capitalize;
-	padding: 20px 40px;
-}
-
-
 /* ============== Contact Form =============== */
 
 
